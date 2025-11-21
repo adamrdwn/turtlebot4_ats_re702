@@ -1,7 +1,7 @@
 This project as Mid-semester exam in course RE 702 Localization and Mapping using Turtlebot4 Robot.
 ___________  
 # **Turtlebot4 Pick and Place Item and Activate Buzzer**
-Study Case 🧭:
+Study Case :
 
 The robot is tasked with delivering goods from Room 203 to the BRAIL Lobby on the 2nd floor of the	of the Batam State Polytechnic. The robot must be able to perform localization, mapping, and autonomous navigation using ROS. To simulate the process of delivering goods, use a buzzer indicator with the following conditions:
 
