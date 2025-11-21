@@ -17,7 +17,7 @@ cd kelompok1
 ```
 2. Clone this Repository
 ```
-git clone https://github.com/annisashinta29/Turtlebot4-Pick-and-Place-the-Item-and-Activate-Buzzer-as-Indicator.git
+git clone https://github.com/adamrdwn/turtlebot4_ats_re702.git
 ```
 3. Install Package and Dependencies
 ```
@@ -91,6 +91,6 @@ _________________________
 3. Adjust the waypoint coordinates if using a different map.
 4. Ensure that the robot is in the correct starting position before beginning navigation.
 _______________________  
-Link Video Demonstration Robot : https://youtu.be/1zIipldbOK8
+Link Video Demonstration Robot : [https://www.youtube.com/watch?v=fNSUQeI4MpU&t=1s
 
 Link Video Generate Map & Demonstration Robot : https://youtu.be/IZZtBOe8N9M 
