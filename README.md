@@ -4,7 +4,9 @@ Tujuan dari proyek ini adalah membuat TurtleBot4 bergerak secara otonom dari Poi
 
 ## Aksi robot:
 Sampai Point A → buzzer bunyi 1x
+
 Sampai Point B → buzzer bunyi 2x
+
 Proyek ini menggunakan ROS2 (Humble/Jazzy), Nav2, SLAM, dan RViz sebagai visualisasi.
 
 ## Fitur Utama
